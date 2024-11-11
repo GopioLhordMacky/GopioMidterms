@@ -19,16 +19,6 @@ React.js is a popular JavaScript library for building user interfaces, primarily
 
 This guide will walk you through the steps needed to set up a new React.js project. Follow these steps to get your development environment ready and start building with React.
 
----
-
-### Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Installing Node.js and npm](#installing-nodejs-and-npm)
-3. [Creating a New React Project](#creating-a-new-react-project)
-4. [Running the Development Server](#running-the-development-server)
-5. [Additional Resources](#additional-resources)
-
----
 
 ### 1. Prerequisites
 
@@ -82,3 +72,9 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
 
 ### 8. Development Environment
    Now you’re ready to start developing! Any changes you make in the `src` folder will automatically update in the browser, thanks to hot-reloading.
+
+## 3. How to Use React.js
+
+If you're a beginner looking to dive into React.js, this playlist is for you! 🎉 It’s packed with easy-to-follow tutorials that will help you get familiar with the basics of React. From setting up your first project to understanding essential concepts, we’ve got you covered. So grab a coffee ☕, hit play, and let's start building with React together! Happy coding! 🚀
+
+Youtube Link: [React.js Tutorial] (https://www.youtube.com/watch?v=doqyfMaaCPs&list=PLHsDmKA--3C7HaOHOz6qugO5TTY9zNqP6&t=2s)
