@@ -1,6 +1,6 @@
 # React.js Guide
 
-Bro, this guide will legit take you through the basics of React.js—like what it is, pare, how to set it up, and how to actually use it. So, parang whether you're just starting out or gusto mo ng quick refresher, this README gotchu covered, pare!
+Bro, this guide will legit take you through the basics of React.js—-like what it is, pare, how to set it up, and how to actually use it. So, parang whether you're just starting out or gusto mo ng quick refresher, this README gotchu covered, pare!
 
 ---
 
@@ -88,3 +88,8 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
 If you're a beginner looking to dive into React.js, this playlist is for you! 🎉 It’s packed with easy-to-follow tutorials that will help you get familiar with the basics of React. From setting up your first project to understanding essential concepts, we’ve got you covered. So grab a coffee ☕, hit play, and let's start building with React together! Happy coding! 🚀
 
 🔗 [React.js Tutorial](https://www.youtube.com/watch?v=doqyfMaaCPs&list=PLHsDmKA--3C7HaOHOz6qugO5TTY9zNqP6&t=2s)
+
+
+###### References
+###### *GeeksforGeeks. (2024, February 23). Markdown Cheat Sheet. GeeksforGeeks. https://www.geeksforgeeks.org/markdown-cheat-sheet/*
+##### *OpenAI. (2024). ChatGPT (November 11 version) [Large language model]. https://chat.openai.com/*
