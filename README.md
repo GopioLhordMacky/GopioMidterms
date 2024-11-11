@@ -15,8 +15,11 @@ This guide will walk you through the essentials of React.js, including what it i
 
 React.js is a popular JavaScript library for building user interfaces, primarily for single-page applications. It allows developers to create reusable UI components and manage the view layer of web applications. With React, you can build fast, interactive, and dynamic web apps with ease. It was developed by Facebook and is now widely used across the web development community.
 
-> A. 🚋 *Where is React.js used for?* 
+>🚋 **Where is React.js used for?**                                                                                  
+
 React.js is primarily used for building interactive user interfaces, especially for single-page applications where users expect a fast and dynamic experience.
+
+>
 
 ## 2. How to Set Up React.js
 
@@ -30,7 +33,7 @@ Before setting up a React.js project, make sure you have a basic understanding o
 #### 2. Installing Node.js and npm
 
 React.js requires Node.js and npm (Node Package Manager) to manage dependencies and run scripts.
-   1. Check if Node.js and npm are installed
+   1. *Check if Node.js and npm are installed*
       Open a terminal and run the following commands:
       ```bash
       node -v
@@ -38,7 +41,7 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
       ```
       If you see version numbers, you already have them installed.
 
-   2. Install Node.js and npm 
+   2. *Install Node.js and npm*
       If Node.js or npm is not installed, download the latest version from the [Node.js official website](https://nodejs.org/). Follow the installation instructions for your operating system.
 
   
