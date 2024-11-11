@@ -17,8 +17,6 @@ React.js is a popular JavaScript library for building user interfaces, primarily
 
 ### 2. How to Set Up React.js
 
-# Setting Up a React.js Project
-
 This guide will walk you through the steps needed to set up a new React.js project. Follow these steps to get your development environment ready and start building with React.
 
 ---
@@ -39,8 +37,7 @@ Before setting up a React.js project, make sure you have a basic understanding o
 ### 2. Installing Node.js and npm
 
 React.js requires Node.js and npm (Node Package Manager) to manage dependencies and run scripts.
-
-   1. ***Check if Node.js and npm are installed**  
+ 1. ***Check if Node.js and npm are installed**  
       Open a terminal and run the following commands:
       ```bash
       node -v
@@ -51,6 +48,7 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
    2. ***Install Node.js and npm**  
       If Node.js or npm is not installed, download the latest version from the [Node.js official website](https://nodejs.org/). Follow the installation instructions for your operating system.
 
+  
 1. **Use `create-react-app`**  
    The `create-react-app` tool simplifies setting up a React project. Run the following command in your terminal:
    ```bash
