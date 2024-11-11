@@ -78,7 +78,7 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
    ```bash
    npm start
    ```
-   This command will start the server and open the app in your default browser at `http://localhost:3000`.
+   This command will start the server and open the app in your default browser at `http://localhost:3000`
 
 #### 8. Development Environment
    Now you’re ready to start developing! Any changes you make in the `src` folder will automatically update in the browser, thanks to hot-reloading.
