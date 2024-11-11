@@ -94,4 +94,4 @@ If you're a beginner looking to dive into React.js, this playlist is for you! ðŸ
 ###### *GeeksforGeeks. (2024, February 23). Markdown Cheat Sheet. GeeksforGeeks. https://www.geeksforgeeks.org/markdown-cheat-sheet/*
 ###### *OpenAI. (2024). ChatGPT (November 11 version) [Large language model]. https://chat.openai.com/*
 
-![BSCPE 2-1](C:\Users\IHG\Desktop\GopioMidterms\BSCPE.jfif)
+![WOWOWIN](https://i.pinimg.com/736x/48/d9/cb/48d9cb442f014f5c31bfffec26a585bd.jpg)
