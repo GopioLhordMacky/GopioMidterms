@@ -17,10 +17,71 @@ React.js is a popular JavaScript library for building user interfaces, primarily
 
 ### 2. How to Set Up React.js
 
-To set up a React.js project, follow these steps:
+# Setting Up a React.js Project
 
-1. **Install Node.js and npm**  
-   Make sure you have [Node.js](https://nodejs.org/) and npm (Node Package Manager) installed on your computer. You can check if they are installed by running the following commands in your terminal:
+This guide will walk you through the steps needed to set up a new React.js project. Follow these steps to get your development environment ready and start building with React.
+
+---
+
+## Table of Contents
+1. [Prerequisites](#prerequisites)
+2. [Installing Node.js and npm](#installing-nodejs-and-npm)
+3. [Creating a New React Project](#creating-a-new-react-project)
+4. [Running the Development Server](#running-the-development-server)
+5. [Additional Resources](#additional-resources)
+
+---
+
+### 1. Prerequisites
+
+Before setting up a React.js project, make sure you have a basic understanding of JavaScript, HTML, and CSS. You’ll also need to have Node.js and npm installed on your computer.
+
+### 2. Installing Node.js and npm
+
+React.js requires Node.js and npm (Node Package Manager) to manage dependencies and run scripts.
+
+   ```markdown
+   1. **Check if Node.js and npm are installed**  
+      Open a terminal and run the following commands:
+      ```bash
+      node -v
+      npm -v
+      ```
+      If you see version numbers, you already have them installed.
+
+   2. **Install Node.js and npm**  
+      If Node.js or npm is not installed, download the latest version from the [Node.js official website](https://nodejs.org/). Follow the installation instructions for your operating system.
+
+1. **Use `create-react-app`**  
+   The `create-react-app` tool simplifies setting up a React project. Run the following command in your terminal:
    ```bash
-   node -v
-   npm -v
+   npx create-react-app my-app
+   ```
+   Replace `my-app` with the name of your project folder.
+
+2. **Navigate to the Project Directory**  
+   After the setup is complete, go to the project folder:
+   ```bash
+   cd my-app
+   ```
+1. **Use `create-react-app`**  
+   The `create-react-app` tool simplifies setting up a React project. Run the following command in your terminal:
+   ```bash
+   npx create-react-app my-app
+   ```
+   Replace `my-app` with the name of your project folder.
+
+2. **Navigate to the Project Directory**  
+   After the setup is complete, go to the project folder:
+   ```bash
+   cd my-app
+   ```
+1. **Start the React App**  
+   Start the development server by running:
+   ```bash
+   npm start
+   ```
+   This command will start the server and open the app in your default browser at `http://localhost:3000`.
+
+2. **Development Environment**  
+   Now you’re ready to start developing! Any changes you make in the `src` folder will automatically update in the browser, thanks to hot-reloading.
