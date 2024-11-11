@@ -15,7 +15,8 @@ This guide will walk you through the essentials of React.js, including what it i
 
 React.js is a popular JavaScript library for building user interfaces, primarily for single-page applications. It allows developers to create reusable UI components and manage the view layer of web applications. With React, you can build fast, interactive, and dynamic web apps with ease. It was developed by Facebook and is now widely used across the web development community.
 
-> 𝙒𝙝𝙚𝙧𝙚 𝙞𝙨 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨 𝙪𝙨𝙚𝙙 𝙛𝙤𝙧?
+> A. 🚋 *Where is React.js used for?* 
+React.js is primarily used for building interactive user interfaces, especially for single-page applications where users expect a fast and dynamic experience.
 
 ## 2. How to Set Up React.js
 
