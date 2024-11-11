@@ -40,8 +40,7 @@ Before setting up a React.js project, make sure you have a basic understanding o
 
 React.js requires Node.js and npm (Node Package Manager) to manage dependencies and run scripts.
 
-   ```markdown
-   1. **Check if Node.js and npm are installed**  
+   1. ***Check if Node.js and npm are installed**  
       Open a terminal and run the following commands:
       ```bash
       node -v
@@ -49,7 +48,7 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
       ```
       If you see version numbers, you already have them installed.
 
-   2. **Install Node.js and npm**  
+   2. ***Install Node.js and npm**  
       If Node.js or npm is not installed, download the latest version from the [Node.js official website](https://nodejs.org/). Follow the installation instructions for your operating system.
 
 1. **Use `create-react-app`**  
