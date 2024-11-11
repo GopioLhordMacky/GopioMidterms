@@ -87,4 +87,4 @@ React.js requires Node.js and npm (Node Package Manager) to manage dependencies 
 
 If you're a beginner looking to dive into React.js, this playlist is for you! 🎉 It’s packed with easy-to-follow tutorials that will help you get familiar with the basics of React. From setting up your first project to understanding essential concepts, we’ve got you covered. So grab a coffee ☕, hit play, and let's start building with React together! Happy coding! 🚀
 
-Youtube Link [React.js Tutorial](https://www.youtube.com/watch?v=doqyfMaaCPs&list=PLHsDmKA--3C7HaOHOz6qugO5TTY9zNqP6&t=2s)
+🔗 [React.js Tutorial](https://www.youtube.com/watch?v=doqyfMaaCPs&list=PLHsDmKA--3C7HaOHOz6qugO5TTY9zNqP6&t=2s)
