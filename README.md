@@ -92,4 +92,4 @@ If you're a beginner looking to dive into React.js, this playlist is for you! ðŸ
 
 ###### References
 ###### *GeeksforGeeks. (2024, February 23). Markdown Cheat Sheet. GeeksforGeeks. https://www.geeksforgeeks.org/markdown-cheat-sheet/*
-##### *OpenAI. (2024). ChatGPT (November 11 version) [Large language model]. https://chat.openai.com/*
+###### *OpenAI. (2024). ChatGPT (November 11 version) [Large language model]. https://chat.openai.com/*
